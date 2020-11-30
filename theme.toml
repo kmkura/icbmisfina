@@ -1,0 +1,20 @@
+# Advances in Accounting, Management, Business and Economics Journal
+
+name = "Advances in Accounting, Management, Business and Economics Journal"
+license = "GPL v3+"
+licenselink = "https://github.com/epistemehealth/health-sciences-theme/blob/master/LICENSE.md"
+description = "Hugo port of the Health Sciences theme for Open Journal systems."
+homepage = "https://github.com/epistemehealth/health-sciences-theme"
+tags = ["journal", "AAMBE Journal"]
+features = ["journal", "publishing", "academic", "responsive"]
+min_version = "0.70.0"
+
+authors = [
+  {name = "Shaun Khoo", homepage = "https://orcid.org/0000-0002-0972-3788"},
+  {name = "Episteme Health Inc.", homepage = "https://about.epistemehealth.com/"}
+]
+
+[original]
+  name = "Advances in Accounting, Management, Business and Economics Journal"
+  homepage = "https://aambejournal.netlify.app"
+  repo = "https://github.com/onwayami2020/aambejournal"
